@@ -1,7 +1,6 @@
 # 💫 About Me:
-⚡️ I'm currently working on Web Development and Mobile App Development.<br>📚 I'm currently learning Web Development , Artificial intelligence and Mobile App Development.<br>📩 You can reach me here dev.ahmetceylan@gmail.com
+⚡️ I'm currently working on Web Development and Mobile App Development.<br>📩 You can reach me here dev.ahmetceylan@gmail.com
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahmtcyln) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmtcyln) 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmtcylnn&theme=dark&hide_border=false)<br/>
